@@ -3,7 +3,7 @@ plugins {
 }
 
 group = findProperty("libGroup") as String? ?: "com.mythlane"
-version = findProperty("libVersion") as String? ?: "0.1.0-SNAPSHOT"
+version = findProperty("libVersion") as String? ?: "0.1.0"
 
 subprojects {
     group = rootProject.group

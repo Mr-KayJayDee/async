@@ -11,7 +11,7 @@ val hytaleServerVersion = libs.versions.hytaleServer.get()
 
 dependencies {
     compileOnly(libs.hytale.server)
-    implementation("com.mythlane:async:0.1.0-SNAPSHOT")
+    implementation("com.mythlane:async:0.1.0")
 }
 
 kotlin {

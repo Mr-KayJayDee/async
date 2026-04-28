@@ -35,7 +35,7 @@ includeBuild("../..") {
 }
 ```
 
-So `implementation("com.mythlane:async:0.1.0-SNAPSHOT")` resolves to the
+So `implementation("com.mythlane:async:0.1.0")` resolves to the
 local `:dist` project — no Maven publication required during dev.
 
 ## What's stubbed
