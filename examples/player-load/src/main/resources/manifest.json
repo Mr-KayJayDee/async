@@ -1,0 +1,16 @@
+{
+  "Group": "Mythlane",
+  "Name": "PlayerLoad",
+  "Version": "${version}",
+  "Description": "${description}",
+  "Authors": [
+    { "Name": "Mythlane", "Email": "contact@mythlane.com", "Url": "https://mythlane.com" }
+  ],
+  "Website": "https://mythlane.com",
+  "Main": "com.mythlane.example.playerload.PlayerLoadPlugin",
+  "ServerVersion": "${hytaleServerVersion}",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false
+}

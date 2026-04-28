@@ -1,0 +1,16 @@
+{
+  "Group": "Mythlane",
+  "Name": "BountyBoard",
+  "Version": "${version}",
+  "Description": "${description}",
+  "Authors": [
+    { "Name": "Mythlane", "Email": "contact@mythlane.com", "Url": "https://mythlane.com" }
+  ],
+  "Website": "https://mythlane.com",
+  "Main": "com.mythlane.example.bounty.BountyPlugin",
+  "ServerVersion": "${hytaleServerVersion}",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false
+}
