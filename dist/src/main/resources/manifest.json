@@ -1,0 +1,16 @@
+{
+  "Group": "Mythlane",
+  "Name": "Async",
+  "Version": "0.1.0",
+  "Description": "Kotlin coroutines for Hytale plugins. Thread-safe ECS access, off-thread blocking I/O, and automatic cancellation on disconnect or world unload.",
+  "Authors": [
+    { "Name": "Mythlane", "Email": "contact@mythlane.com", "Url": "https://mythlane.com" }
+  ],
+  "Website": "https://mythlane.com",
+  "Main": "com.mythlane.async.binding.AsyncPlugin",
+  "ServerVersion": "2026.03.26-89796e57b",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false
+}
